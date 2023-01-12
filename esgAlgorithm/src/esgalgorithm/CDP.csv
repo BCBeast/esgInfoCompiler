@@ -1,0 +1,32 @@
+Ticker,Company,Climate,Forests,Water Security
+ACN,Accenture,1,,
+ADBE,Adobe,1,,
+BBY,Best Buy,1,,
+CL,Colgate Palmolive Company,1,,1
+CSCO,Cisco,1,,
+CZR,Caesars Entertainment,1,,1
+D,Dominion Energy,,,1
+DAL,Delta,1,,1
+EBAY,eBay,1,,
+EL,Estee,,,1
+EQIX,"EQUINIX,",1,,
+F,Ford Motor Company,1,,1
+GOOGL,Alphabet,1,,
+HPE,Hewlett Packard Enterprise Company,,,1
+HPQ,HP ,1,1,1
+IFF,International Flavors & Fragrances ,1,,
+J,Jacobs Engineering Group ,1,,
+JNJ,Johnson & Johnson,1,,
+KO,Coca-Cola,1,,
+LIN,Linde ,1,,1
+MCO,Moody's ,1,,
+MGM,MGM Resorts International,1,,1
+MSFT,Microsoft ,1,,
+NDAQ,"Nasdaq, ",1,,
+PCAR,PACCAR ,1,,
+PM,Philip Morris International,1,1,1
+SWK,"Stanley Black & Decker, ",1,,1
+T,AT&T,1,,
+TT,Trane Technologies,1,,
+V,Visa,1,,
+VFC,VF ,1,,

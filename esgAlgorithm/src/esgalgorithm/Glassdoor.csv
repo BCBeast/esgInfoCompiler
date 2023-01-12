@@ -1,0 +1,493 @@
+Ticker,Company,Num
+A,Agilent Technologies,4.2 
+AAL,American Airlines Group,3.8 
+AAP,Advance Auto Parts,3.2 
+AAPL,Apple,4.2 
+ABBV,AbbVie,3.9 
+ABC,AmerisourceBergen,3.7 
+ABT,Abbott Laboratories,3.8 
+ACGL,Arch Capital Group Ltd,4.2 
+ACN,Accenture PLC,4.1 
+ADBE,Adobe,4.4 
+ADI,Analog Devices,4.1 
+ADM,Archer-Daniels Midland Co,3.9 
+ADP,Automatic Data Processing,4.0 
+ADSK,Autodesk,4.2 
+AEE,Ameren,4.0 
+AEP,American Electric Power Co,4.0 
+AES,AES Indiana,4.2 
+AFL,Aflac,3.8 
+AIG,American International Group,3.6 
+AIZ,Assurant,3.6 
+AJG,Arthur J. Gallagher & Co,3.6 
+AKAM,Akamai Technologies,4.5 
+ALB,Albemarle,3.7 
+ALGN,Align Technology,4.2 
+ALK,Alaska Air Group,3.9 
+ALL,Allstate,3.5 
+ALLE,Allegion PLC,3.9 
+AMAT,Applied Materials,4.0 
+AMCR,Amcor PLC,3.6 
+AMD,Advanced Micro Devices,4.2 
+AME,AMETEK,3.8 
+AMGN,Amgen,4.1 
+AMP,Ameriprise Financial,3.9 
+AMT,American Tower,4.0 
+AMZN,Amazon,3.8 
+ANET,Arista Networks,4.1 
+ANSS,Ansys,4.3 
+AON,Aon,4.0 
+AOS,A.O. Smith,3.6 
+APA,APA,4.0 
+APD,Air Products & Chemicals,4.0 
+APH,Amphenol,3.6 
+APTV,Aptiv PLC,3.8 
+ARE,Alexandria Real Estate Equities,4.2 
+ATO,Atmos Energy,4.0 
+ATVI,Activision Blizzard,3.5 
+AVB,AvalonBay Communities,3.8 
+AVGO,Broadcom,3.6 
+AVY,Avery Dennison,4.0 
+AWK,American Water Works Co,3.8 
+AXP,American Express Co,4.2 
+AZO,AutoZone,3.3 
+BA,Boeing Co,3.8 
+BAC,Bank of America,4.0 
+BALL,Ball,3.7 
+BAX,Baxter International,3.8 
+BBWI,Bath & Body Works,3.8 
+BBY,Best Buy Co,3.7 
+BDX,"Becton, Dickinson and Co",3.9 
+BEN,Franklin Resources,4.0 
+BF.B,Brown-Forman,4.0 
+BIIB,Biogen,4.0 
+BIO,Bio-Rad Laboratories,3.5 
+BK,Bank of New York Mellon,3.7 
+BKNG,Booking Holdings,3.8 
+BLK,BlackRock,4.1 
+BMY,Bristol-Myers Squibb Co,3.9 
+BR,Broadridge Financial Solutions,3.9 
+BRK.B,Berkshire Hathaway,4.2 
+BRO,Brown & Brown,3.8 
+BSX,Boston Scientific,4.2 
+BWA,BorgWarner,4.0 
+BXP,Boston Properties,3.8 
+C,Citigroup,3.9 
+CAG,Conagra Brands,3.7 
+CAH,Cardinal Health,3.7 
+CARR,Carrier Global,3.3 
+CAT,Caterpillar,4.0 
+CB,Chubb Ltd,3.7 
+CBOE,Cboe Global Markets,4.2 
+CBRE,CBRE Group,4.0 
+CCI,Crown Castle,3.7 
+CCL,Carnival PLC,4.0 
+CDAY,Ceridian HCM Holding,3.7 
+CDNS,Cadence Design Systems,4.4 
+CDW,CDW,4.1 
+CE,Celanese,3.7 
+CF,CF Industries Holdings,3.8 
+CFG,Citizens Financial Group,3.7 
+CHD,Church & Dwight Co,4.0 
+CHRW,C.H. Robinson Worldwide,3.7 
+CHTR,Charter Communications,3.6 
+CI,Cigna,3.8 
+CINF,Cincinnati Financial,4.0 
+CL,Colgate-Palmolive Co,4.2 
+CLX,Clorox,3.9 
+CMA,Comerica,3.8 
+CMCSA,Comcast,3.9 
+CME,CME Group,3.9 
+CMG,Chipotle Mexican Grill,3.4 
+CMI,Cummins,4.1 
+CMS,CMS Energy,3.7 
+CNC,Centene,3.7 
+CNP,CenterPoint Energy,3.4 
+COF,Capital One Financial,4.2 
+COO,The Cooper Companies,2.9 
+COP,ConocoPhillips,4.2 
+COST,Costco Wholesale,4.0 
+CPB,Campbell Soup Co,3.9 
+CPRT,Copart,4.0 
+CPT,Camden Property Trust,4.2 
+CRM,Salesforce,4.4 
+CSCO,Cisco Systems,4.3 
+CSGP,CoStar Group,2.9 
+CSX,CSX,2.7 
+CTAS,Cintas,3.6 
+CTLT,Catalent,3.4 
+CTRA,Coterra Energy,3.6 
+CTSH,Cognizant Technology Solutions,3.8 
+CTVA,Corteva,4.0 
+CVS,CVS Health,3.1 
+CVX,Chevron,4.1 
+CZR,Caesars Entertainment,3.5 
+D,Dominion Energy,4.0 
+DAL,Delta Air Lines,4.3 
+DD,DuPont de Nemours,3.7 
+DE,Deere & Co,4.1 
+DFS,Discover Financial Services,3.9 
+DG,Dollar General,2.8 
+DGX,Quest Diagnostics,3.5 
+DHI,D.R. Horton,3.7 
+DHR,Danaher,4.0 
+DIS,The Walt Disney Co,3.9 
+DISH,DISH Network,3.1 
+DLR,Digital Realty Trust,4.0 
+DLTR,Dollar Tree,3.0 
+DOV,Dover,3.7 
+DOW,Dow,4.1 
+DPZ,Domino's Pizza,3.5 
+DRI,Darden Restaurants,3.8 
+DTE,DTE Energy Co,4.1 
+DUK,Duke Energy,3.8 
+DVA,DaVita,3.4 
+DVN,Devon Energy,3.8 
+DXC,DXC Technology Co,3.6 
+DXCM,DexCom,3.8 
+EA,Electronic Arts,4.1 
+EBAY,eBay,4.2 
+ECL,Ecolab,3.7 
+ED,Consolidated Edison,4.1 
+EFX,Equifax,3.8 
+EIX,Edison International,3.5 
+EL,The Estee Lauder Companies,3.9 
+ELV,Elevance Health,3.7 
+EMN,Eastman Chemical Co,3.9 
+EMR,Emerson Electric Co,3.9 
+ENPH,Enphase Energy,3.8 
+EOG,EOG Resources,4.2 
+EPAM,EPAM Systems,4.2 
+EQIX,Equinix,4.2 
+EQR,Equity Residential,3.8 
+EQT,EQT,4.6 
+ES,Eversource Energy,3.5 
+ESS,Essex Property Trust,4.1 
+ETN,Eaton PLC,3.9 
+ETR,Entergy,3.7 
+ETSY,Etsy,4.6 
+EVRG,Evergy,3.6 
+EW,Edwards Lifesciences,4.0 
+EXC,Exelon,4.0 
+EXPD,Expeditors International of Washington,3.6 
+EXPE,Expedia Group,4.1 
+EXR,Extra Space Storage,4.2 
+F,Ford Motor Co,4.1 
+FANG,Diamondback Energy,3.5 
+FAST,Fastenal Co,3.6 
+FCX,Freeport-McMoRan,4.0 
+FDS,FactSet Research Systems,4.1 
+FDX,FedEx,3.7 
+FE,FirstEnergy,3.6 
+FFIV,F5,4.2 
+FISV,Fiserv,3.2 
+FITB,Fifth Third Ban,3.7 
+FLT,Fleetcor Technologies,3.4 
+FMC,FMC,4.0 
+FOX,Fox,3.7 
+FRC,First Republic Bank,4.2 
+FRT,Federal Realty Investment Trust,4.3 
+FSLR,First Solar,4.0 
+FTNT,Fortinet,4.2 
+FTV,Fortive,3.5 
+GD,General Dynamics,3.7 
+GE,General Electric Co,4.0 
+GEN,Gen Digital,3.3 
+GILD,Gilead Sciences,3.9 
+GIS,General Mills,4.1 
+GL,Globe Life,3.1 
+GLW,Corning,3.8 
+GM,General Motors Co,4.0 
+GNRC,Generac Holdings,3.0 
+GOOGL,Alphabet,4.5 
+GPC,Genuine Parts Co,3.7 
+GPN,Global Payments,3.5 
+GRMN,Garmin Ltd,4.0 
+GS,The Goldman Sachs Group,4.0 
+GWW,W.W. Grainger,4.1 
+HAL,Halliburton Co,3.7 
+HAS,Hasbro,3.7 
+HBAN,Huntington Bancshares,3.6 
+HCA,HCA Healthcare,3.4 
+HD,The Home Depot,3.8 
+HES,Hess,4.0 
+HIG,The Hartford Financial Services Group,4.0 
+HII,Huntington Ingalls Industries,3.5 
+HLT,Hilton Worldwide Holdings,4.0 
+HOLX,Hologic,4.0 
+HON,Honeywell International,4.0 
+HPE,Hewlett Packard Enterprise Co,4.2 
+HPQ,HP,4.2 
+HRL,Hormel Foods,3.8 
+HSIC,Henry Schein,4.1 
+HST,Host Hotels & Resorts,3.9 
+HSY,The Hershey Co,3.5 
+HUM,Humana,3.9 
+HWM,Howmet Aerospace,3.1 
+IBM,International Business Machines,4.2 
+ICE,Intercontinental Exchange,3.8 
+IDXX,IDEXX Laboratories,3.7 
+IEX,IDEX,4.0 
+IFF,International Flavors & Fragrances,3.7 
+ILMN,Illumina,4.1 
+INCY,Incyte,4.0 
+INTC,Intel,4.3 
+INTU,Intuit,4.5 
+INVH,Invitation Homes,4.2 
+IP,International Paper Co,3.6 
+IPG,The Interpublic Group of Companies,3.9 
+IQV,IQVIA Holdings,4.0 
+IR,Ingersoll Rand,3.8 
+IRM,Iron Mountain,3.8 
+ISRG,Intuitive Surgical,4.3 
+IT,Gartner,4.0 
+ITW,Illinois Tool Works,3.7 
+IVZ,Invesco Ltd,3.9 
+J,Jacobs Solutions,4.0 
+JBHT,JB Hunt Transport Services,3.7 
+JCI,Johnson Controls International PLC,3.6 
+JKHY,Jack Henry & Associates,3.9 
+JNJ,Johnson & Johnson,4.2 
+JNPR,Juniper Networks,4.3 
+JPM,JPMorgan Chase & Co,4.0 
+K,Kellogg Co,3.4 
+KDP,Keurig Dr Pepper,3.3 
+KEY,Key,3.8 
+KEYS,Keysight Technologies,4.2 
+KHC,The Kraft Heinz Co,3.5 
+KIM,Kimco Realty,3.6 
+KLAC,KLA,4.1 
+KMB,Kimberly-Clark,4.1 
+KMI,Kinder Morgan,3.7 
+KMX,CarMax,3.8 
+KO,Coca-Cola Co,4.1 
+KR,The Kroger Co,3.1 
+L,Loews,2.8 
+LDOS,Leidos Holdings,3.9 
+LEN,Lennar,3.6 
+LH,Laboratory of America Holdings,3.8 
+LHX,L3Harris Technologies,3.8 
+LIN,Linde PLC,3.6 
+LKQ,LKQ,3.8 
+LLY,Eli Lilly and Co,4.0 
+LMT,Lockheed Martin,4.1 
+LNC,Lincoln Financial,3.6 
+LNT,Alliant Energy,2.6 
+LRCX,Lam Research,4.2 
+LUMN,Lumen Technologies,3.4 
+LUV,Southwest Airlines Co,4.2 
+LVS,Las Vegas Sands,3.8 
+LW,Lamb Weston Holdings,3.7 
+LYB,LyondellBasell Industries NV,4.0 
+LYV,Live Nation Entertainment,4.1 
+MA,Mastercard,4.3 
+MAA,Mid-America Apartment Communities,3.7 
+MAR,Marriott International,4.0 
+MAS,Masco,3.9 
+MCD,McDonald's,3.5 
+MCHP,Microchip Technology,4.0 
+MCK,McKesson,3.7 
+MCO,Moody's,3.7 
+MDLZ,Mondelez International,4.0 
+MDT,Medtronic PLC,4.0 
+MET,MetLife,4.0 
+META,Meta Platforms,4.1 
+MGM,MGM Resorts International,3.6 
+MHK,Mohawk Industries,3.4 
+MKC,McCormick & Co,3.2 
+MKTX,MarketAxess Holdings,3.9 
+MLM,Martin Marietta Materials,3.9 
+MMC,Marsh & McLennan Companies,3.9 
+MMM,3M,3.8 
+MNST,Monster Beverage,4.0 
+MO,Altria Group,3.9 
+MOH,Molina Healthcare,3.4 
+MOS,The Mosaic Co,3.9 
+MPC,Marathon Petroleum,3.5 
+MPWR,Monolithic Power Systems,4.3 
+MRK,Merck & Co,4.2 
+MRNA,Moderna,3.7 
+MRO,Marathon Oil,3.5 
+MS,Morgan Stanley,4.0 
+MSCI,MSCI,4.2 
+MSFT,Microsoft,4.4 
+MSI,Motorola Solutions,3.8 
+MTB,M&T Bank,3.6 
+MTCH,Match Group,4.1 
+MTD,Mettler-Toledo International,3.7 
+MU,Micron Technology,3.9 
+NCLH,Norwegian Cruise Line Holdings Ltd,3.4 
+NDAQ,Nasdaq,4.1 
+NDSN,Nordson,3.3 
+NEE,Nexera Energy,3.7 
+NEM,Newmont,4.2 
+NFLX,Netflix,4.3 
+NI,NiSource,3.2 
+NKE,Nike,4.1 
+NOC,Northrop Grumman,4.0 
+NOW,ServiceNow,4.5 
+NRG,NRG Energy,3.8 
+NSC,Norfolk Southern,2.4 
+NTAP,NetApp,4.2 
+NTRS,Northern Trust,3.9 
+NUE,Nucor,4.2 
+NVDA,NVIDIA,4.6 
+NVR,NVR,3.8 
+NWL,Newell Brands,3.6 
+NWS,News,3.8 
+NXPI,NXP Semiconductors NV,4.0 
+O,Realty Income,3.5 
+ODFL,Old Dominion Freight Line,3.8 
+OGN,Organon & Co,3.8 
+OKE,ONEOK,4.1 
+OMC,Omnicom Group,3.9 
+ON,ON Semiconductor,3.6 
+ORCL,Oracle,3.9 
+ORLY,O'Reilly Automotive,3.4 
+OTIS,Otis Worldwide,3.7 
+OXY,Occidental Petroleum,3.7 
+PARA,Paramount Global,3.4 
+PAYC,Paycom Software,3.9 
+PAYX,Paychex,3.8 
+PCAR,PACCAR,3.5 
+PCG,PG&E,4.2 
+PEAK,Healthpeak Properties,3.9 
+PEG,Public Service Enterprise Group,3.9 
+PEP,PepsiCo,4.0 
+PFE,Pfizer,4.1 
+PFG,Principal Financial Group,4.0 
+PG,Procter & Gamble Co,4.2 
+PGR,Progressive,3.8 
+PH,Parker Hannifin,3.8 
+PHM,PulteGroup,4.2 
+PKG,Packaging of America,3.6 
+PKI,PerkinElmer,3.6 
+PLD,Prologis,4.4 
+PM,Philip Morris International,3.0 
+PNC,PNC Financial Services Group,3.6 
+PNR,Pentair PLC,3.9 
+PNW,Pinnacle West Capital,3.4 
+POOL,Pool,3.8 
+PPG,PPG Industries,3.4 
+PPL,PPL,4.2 
+PRU,Prudential Financial,3.9 
+PSA,Public Storage,3.0 
+PSX,Phillips 66,3.7 
+PTC,PTC,4.1 
+PWR,Quanta Services,3.7 
+PXD,Pioneer Natural Resources Co,3.9 
+PYPL,PayPal Holdings,4.0 
+QCOM,Qualcomm,4.2 
+QRVO,Qorvo,3.7 
+RCL,Royal Caribbean Group,4.1 
+RE,Everest Re Group Ltd,3.8 
+REG,Regency Centers,3.9 
+REGN,Regeneron Pharmaceuticals,4.0 
+RF,Regions Financial,3.5 
+RHI,Robert Half International,3.9 
+RJF,Raymond James Financial,4.4 
+RL,Ralph Lauren,3.8 
+RMD,ResMed,4.0 
+ROK,Rockwell Automation,3.9 
+ROL,Rollins,3.2 
+ROP,Roper Technologies,3.5 
+ROST,Ross Stores,3.3 
+RSG,Republic Services,3.5 
+RTX,Raytheon Technologies,3.8 
+SBAC,SBA Communications,4.5 
+SBNY,Signature Bank,3.7 
+SBUX,Starbucks,3.7 
+SCHW,Charles Schwab,4.1 
+SEDG,SolarEdge Technologies,3.9 
+SEE,Sealed Air,3.7 
+SHW,Sherwin-Williams Co,3.8 
+SIVB,SVB Financial Group,4.1 
+SJM,JM Smucker Co,3.6 
+SLB,SLB,4.0 
+SNA,Snap-on,3.7 
+SNPS,Synopsys,4.1 
+SO,Southern Co,4.1 
+SPG,Simon Property Group,3.5 
+SPGI,S&P Global,4.1 
+SRE,Sempra Energy,4.3 
+STE,Steris PLC,3.4 
+STLD,Steel Dynamics,4.4 
+STT,State Street oration,3.5 
+STX,Seagate Technology Holdings PLC,3.8 
+STZ,Constellation Brands,4.2 
+SWK,Stanley Black & Decker,3.5 
+SWKS,Skyworks Solutions,3.7 
+SYF,Synchrony Financial,4.3 
+SYK,Stryker,4.1 
+SYY,Sysco,3.2 
+T,AT&T,3.7 
+TAP,Molson Coors Beverage Co,3.8 
+TDG,TransDigm Group,3.4 
+TDY,Teledyne Technologies,3.2 
+TECH,Bio-Techne,3.5 
+TEL,TE Connectivity Ltd,3.8 
+TER,Teradyne,4.4 
+TFC,Truist Financial,3.5 
+TFX,Teleflex,4.0 
+TGT,Target,3.6 
+TJX,TJX Companies,3.7 
+TMO,Thermo Fisher Scientific,3.8 
+TMUS,T-Mobile US,3.8 
+TPR,Tapestry,4.1 
+TRGP,Targa Resources,3.8 
+TRMB,Trimble,3.4 
+TROW,T. Rowe Price Group,3.8 
+TRV,The Travelers Companies,3.9 
+TSCO,Tractor Supply Co,3.6 
+TSLA,Tesla,3.6 
+TSN,Tyson Foods,3.6 
+TT,Trane Technologies PLC,3.9 
+TTWO,Take-Two Interactive Software,3.9 
+TXN,Texas Instruments,4.1 
+TXT,Textron,3.8 
+TYL,Tyler Technologies,4.0 
+UAL,United Airlines Holdings,2.3 
+UDR,UDR,3.8 
+UHS,Universal Health Services,3.1 
+ULTA,Ulta Beauty,3.5 
+UNH,UnitedHealth Group,3.6 
+UNP,Union Pacific,2.1 
+UPS,United Parcel Service,3.5 
+URI,United Rentals,4.0 
+USB,U.S. Ban,3.8 
+V,Visa,4.1 
+VFC,VF,3.9 
+VICI,VICI Properties,4.6 
+VLO,Valero Energy,4.1 
+VMC,Vulcan Materials Co,3.7 
+VRSK,Verisk Analytics,3.8 
+VRTX,Vertex Pharmaceuticals,4.2 
+VTR,Ventas,3.2 
+VTRS,Viatris,3.7 
+VZ,Verizon Communications,3.8 
+WAB,Westinghouse Air Brake Technologies,3.8 
+WAT,Waters,4.0 
+WBA,Walgreens Boots Alliance,3.1 
+WBD,Warner Bros.Discovery,3.8 
+WDC,Western Digital,3.8 
+WEC,WEC Energy Group,3.7 
+WELL,Welltower,4.1 
+WFC,Wells Fargo & Co,3.7 
+WHR,Whirlpool,4.1 
+WM,Waste Management,3.4 
+WMB,Williams Companies,3.1 
+WMT,Walmart,3.3 
+WRB,WR Berkley,3.7 
+WRK,WestRock Co,3.4 
+WST,West Pharmaceutical Services,3.6 
+WTW,Willis Towers Watson PLC,3.9 
+WY,Weyerhaeuser Co,3.8 
+WYNN,Wynn Resorts Ltd,3.9 
+XEL,Xcel Energy,3.8 
+XOM,Exxon Mobil,3.6 
+XRAY,Dentsply Sirona,3.3 
+YUM,Yum Brands,4.0 
+ZBH,Zimmer Biomet Holdings,3.6 
+ZBRA,Zebra Technologies,4.0 
+ZION,Zions Ban NA,3.8 
+ZTS,Zoetis,4.0 
