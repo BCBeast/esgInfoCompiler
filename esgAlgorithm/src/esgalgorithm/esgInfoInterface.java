@@ -83,7 +83,6 @@ public class esgInfoInterface extends javax.swing.JFrame {
      */
     public esgInfoInterface() {
         initComponents();
-        
     }
 
     /**
@@ -98,8 +97,8 @@ public class esgInfoInterface extends javax.swing.JFrame {
         lblTicker = new javax.swing.JLabel();
         jScrollPane1 = new javax.swing.JScrollPane();
         lblResult = new javax.swing.JTextArea();
-        txtTicker1 = new javax.swing.JTextField();
-        btnResult1 = new javax.swing.JButton();
+        txtTicker = new javax.swing.JTextField();
+        btnResult = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
@@ -109,10 +108,10 @@ public class esgInfoInterface extends javax.swing.JFrame {
         lblResult.setRows(5);
         jScrollPane1.setViewportView(lblResult);
 
-        btnResult1.setText("Find Result");
-        btnResult1.addActionListener(new java.awt.event.ActionListener() {
+        btnResult.setText("Find Result");
+        btnResult.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                btnResult1ActionPerformed(evt);
+                btnResultActionPerformed(evt);
             }
         });
 
@@ -126,12 +125,12 @@ public class esgInfoInterface extends javax.swing.JFrame {
                         .addGap(48, 48, 48)
                         .addComponent(lblTicker)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                        .addComponent(txtTicker1, javax.swing.GroupLayout.PREFERRED_SIZE, 179, javax.swing.GroupLayout.PREFERRED_SIZE))
+                        .addComponent(txtTicker, javax.swing.GroupLayout.PREFERRED_SIZE, 179, javax.swing.GroupLayout.PREFERRED_SIZE))
                     .addGroup(layout.createSequentialGroup()
                         .addGap(40, 40, 40)
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                             .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 318, javax.swing.GroupLayout.PREFERRED_SIZE)
-                            .addComponent(btnResult1))))
+                            .addComponent(btnResult))))
                 .addContainerGap(39, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
@@ -140,9 +139,9 @@ public class esgInfoInterface extends javax.swing.JFrame {
                 .addGap(18, 18, 18)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(lblTicker)
-                    .addComponent(txtTicker1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addComponent(txtTicker, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
                 .addGap(18, 18, 18)
-                .addComponent(btnResult1)
+                .addComponent(btnResult)
                 .addGap(24, 24, 24)
                 .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 367, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addContainerGap(27, Short.MAX_VALUE))
@@ -151,12 +150,14 @@ public class esgInfoInterface extends javax.swing.JFrame {
         pack();
     }// </editor-fold>                        
 
-    private void btnResult1ActionPerformed(java.awt.event.ActionEvent evt) {                                           
-        // TODO add your handling code here:
-    }                                          
+    private void btnResultActionPerformed(java.awt.event.ActionEvent evt) {                                          
+        comments = "";
+        lblResult.setText(assembleData(txtTicker.getText()));
+    }                                         
     
     public static String assembleData(String ticker){
         ticker = ticker.toUpperCase();
+        inDataset = false;
         
         ArrayList AccessNow = read("/Users/benjamincheong/NetBeansProjects/esgAlgorithm/src/esgalgorithm/AccessNow.csv");
         ArrayList Aflcio = read("/Users/benjamincheong/NetBeansProjects/esgAlgorithm/src/esgalgorithm/Aflcio.csv");
@@ -551,10 +552,10 @@ public class esgInfoInterface extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify                     
-    private javax.swing.JButton btnResult1;
+    private javax.swing.JButton btnResult;
     private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JTextArea lblResult;
     private javax.swing.JLabel lblTicker;
-    private javax.swing.JTextField txtTicker1;
+    private javax.swing.JTextField txtTicker;
     // End of variables declaration                   
 }
