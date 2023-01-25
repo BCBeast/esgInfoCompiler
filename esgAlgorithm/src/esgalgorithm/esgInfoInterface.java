@@ -158,6 +158,7 @@ public class esgInfoInterface extends javax.swing.JFrame {
     public static String assembleData(String ticker){
         ticker = ticker.toUpperCase();
         inDataset = false;
+        numDatasetsUsed = 0;
         
         ArrayList AccessNow = read("/Users/benjamincheong/NetBeansProjects/esgAlgorithm/src/esgalgorithm/AccessNow.csv");
         ArrayList Aflcio = read("/Users/benjamincheong/NetBeansProjects/esgAlgorithm/src/esgalgorithm/Aflcio.csv");
